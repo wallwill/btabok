@@ -9,7 +9,7 @@ summary: "Transformation is happening all around and at all levels inside and ou
 ---
 
 > "Verb (used with object) to change in form, appearance, or structure; metamorphose. to change in condition, nature, or character; convert."
-**dictionary.com**
+> **dictionary.com**
 
 # What does it mean to Transform
 
